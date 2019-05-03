@@ -11,10 +11,10 @@ GPIO.setup(23, GPIO.IN, pull_up_down=GPIO.PUD_UP)
 # InstaPush 변수를 셋업
 
 # Instapush에서 응용 프로그램 ID로 설정
-appID = "5755540a5659e3be72ffffef"
+appID = "ID"
 
 # Instapush에서 응용 프로그램 비밀로 설정
-appSecret = "811cf06c9303ff9a36a968628dd4c54f"
+appSecret = "Secret"
 
 # Instapush에서 pushEvent라는 이름을 DoorAlert로 설정
 pushEvent = "DoorAlert"
