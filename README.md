@@ -1,6 +1,6 @@
 # magnetic-sensor
 ## 준비물
-Raspberry Pi, SD Card, Magnetic sensor, Smartphone, Instapush 계정,
+Raspberry Pi, SD Card, Magnetic sensor, Smartphone, Instapush 계정
 
 ## 사용법
 1. Raspberry Pi OS 설치</br>
